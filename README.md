@@ -1,6 +1,6 @@
 <h1>Oii, eu me chamo Evilen Barreto!</h1>
 
-No momento me encontro realizando graduação, cursando Análise e Desenvolvimento de Sistemas na UniGrande. Sou Designer Gráfica quando estou disponível, e continuo aprimorando meus conhecimentos sobre TI de forma geral, com foco maior em Arte 3D.
+No momento me encontro realizando graduação, cursando Análise e Desenvolvimento de Sistemas. Sou Designer Gráfica quando estou disponível, e continuo aprimorando meus conhecimentos em TI.
 
 ## Linguagens com Experiência
 
@@ -38,7 +38,6 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
   
   <a href="https://www.instagram.com/hii.brass"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" title="roseofdeserts" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
   
 
@@ -77,6 +76,5 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 </div><br>
 
 <div align= "center"><img src="./made-with-❤︎.svg" title="MADE WITH LOVE"/></div>
-<div align="center"><img width="50%" alt="divider-rose" src="https://github.com/user-attachments/assets/8b693ac0-b193-441b-b8a2-9b3afeef4627" /></div>
 
 
