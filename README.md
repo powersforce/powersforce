@@ -2,7 +2,7 @@
 US <a href="#">English</a><br>
 CN <a href="./README.zh-CN.md">中文</a>
 
-<h1>Oii, eu me chamo Evilen Barreto!</h1>
+<h1>Oii, eu sou a Eve!</h1>
 
 No momento me encontro realizando graduação, cursando Análise e Desenvolvimento de Sistemas. Sou Designer Gráfica quando estou disponível, e continuo aprimorando meus conhecimentos em TI.
 
