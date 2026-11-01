@@ -56,7 +56,6 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 
 <img width="100%" height="2" alt="image" src="https://github.com/user-attachments/assets/a612cb94-bb30-4bda-a51c-b3df0a0b408e" />
 <div align="center">
-<img width="50%" alt="image" src="https://github.com/user-attachments/assets/8b9cc107-4e30-4e21-8e4b-2fe7e515253a" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=powersforce&theme=cobalt)](https://git.io/streak-stats) <br>
 
