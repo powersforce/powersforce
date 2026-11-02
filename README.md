@@ -1,6 +1,5 @@
-🌎 Select language / 选择语言 <br><br>
-US <a href="#">English</a><br>
-CN <a href="./README.zh-CN.md">中文</a>
+🌎 Select language / 选择语言 > US <a href="#">English</a> |
+CN <a href="./README.zh-CN.md">中文</a><br><br>
 
 <h1>Oii, eu sou a Eve!</h1>
 
