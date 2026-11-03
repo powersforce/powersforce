@@ -54,15 +54,17 @@
 </div><br>
 
 <img width="100%" height="2" alt="image" src="https://github.com/user-attachments/assets/a612cb94-bb30-4bda-a51c-b3df0a0b408e" /> <br><br>
-<div align="center">
+<div align-self="center" align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=powersforce&theme=cobalt)](https://git.io/streak-stats) <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=powersforce&theme=cobalt)](https://git.io/streak-stats)
 
   
 </div><br>
-<a href="#"><img src="./pixelgif.webp" width="100%"/></a>
+<div>
 
-## 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=powersforce&layout=donut-vertical&langs_count=5&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=powersforce&layout=donut-vertical&langs_count=5&theme=aura)
+<img align="right" src="./pixelgif.webp" width="57%" height="67%"/>
+</div>
 
 <div align="center">
   <img width="100%" height="2" alt="image" src="https://github.com/user-attachments/assets/a612cb94-bb30-4bda-a51c-b3df0a0b408e" />
