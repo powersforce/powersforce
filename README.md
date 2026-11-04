@@ -66,7 +66,7 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 </div><br>
 <div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=powersforce&layout=donut-vertical&langs_count=5&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=powersforce&layout=donut-vertical&langs_count=5&theme=aura)
+
 <img align="right" src="./pixelgif.webp" width="57%" height="67%"/>
 </div>
 
